@@ -1,1 +1,261 @@
+================================================================================
+           PROPRIETARY SOURCE-VISIBLE LICENSE (LITE) — VERSION 1.0
+      Copyright (c) [YEAR] [AUTHOR_LEGAL_NAME]. All Rights Reserved.
+                        First Published: [MONTH] [YEAR]
+================================================================================
 
+STRICTLY PROPRIETARY — SOURCE-VISIBLE FOR EVALUATION AND CONTRIBUTION ONLY.
+
+This software and its source code are the sole and exclusive intellectual
+property of [AUTHOR_LEGAL_NAME] ("the Author"). The source code is made
+publicly visible exclusively to facilitate community evaluation, security
+auditing, and official contributions back to this project.
+
+By accessing, cloning, forking, or otherwise interacting with this source
+code in any form, you explicitly agree to be bound by all terms set forth
+in this license.
+
+================================================================================
+                         PLAIN ENGLISH SUMMARY
+          (For Readability Only — Not a Substitute for Full License)
+================================================================================
+
+YOU CAN:
+  - Read and evaluate the source code
+  - Fork and modify it solely to submit improvements back via Pull Request
+  - Use it for personal, non-commercial, educational, or research purposes
+  - Conduct security research in local sandboxed environments
+  - Translate localization files and contribute them back
+
+YOU CANNOT:
+  - Use it commercially, sell it, host it, or build a competing product
+  - Redistribute, sublicense, or publish it anywhere
+  - Train AI models on the code or user data
+  - Reverse engineer or decompile compiled builds
+  - Use it for any harmful, illegal, or exploitative purpose
+
+ALL CONTRIBUTIONS become the permanent intellectual property of the Author.
+All disputes are resolved by binding arbitration in [GOVERNING_CITY],
+[GOVERNING_COUNTRY].
+
+================================================================================
+                           SECTION 1 — DEFINITIONS
+================================================================================
+
+"Software"         — The source code, binaries, assets, documentation, and
+                     all materials in this repository and associated releases.
+
+"Author"           — [AUTHOR_LEGAL_NAME], the sole intellectual property
+                     owner of the Software.
+
+"You" / "Licensee" — Any individual, organization, or entity accessing or
+                     interacting with the Software in any form.
+
+"Contribution"     — Any code, asset, documentation, translation, or other
+                     material submitted to the Author or this repository.
+
+"Sandbox"          — An isolated, offline, non-production environment using
+                     only synthetic, non-real user data.
+
+================================================================================
+                         SECTION 2 — LICENSE GRANT
+================================================================================
+
+2.1  Subject to full compliance with all terms of this license, the Author
+     hereby grants You a limited, non-exclusive, non-transferable,
+     non-sublicensable, revocable license to access and use the Software
+     solely for the Permitted Uses in Section 3.
+
+2.2  All rights not explicitly granted in Section 3 are expressly reserved
+     by the Author. No rights are granted by implication or estoppel.
+
+2.3  This license does not constitute an open-source license as defined by
+     the Open Source Initiative (OSI).
+
+================================================================================
+                         SECTION 3 — PERMITTED USES
+================================================================================
+
+Any use not explicitly listed here is implicitly prohibited.
+
+3.1  PERSONAL NON-COMMERCIAL USE
+     You may access and evaluate this Software for personal, non-commercial
+     purposes provided no redistribution, deployment, or monetization occurs.
+
+3.2  EDUCATIONAL & RESEARCH USE
+     Schools, universities, students, and researchers may run and evaluate
+     this Software solely for internal educational or academic purposes.
+     No commercial use or production deployment is permitted.
+
+3.3  SECURITY RESEARCH
+     Security researchers may analyze this Software in local, offline,
+     sandboxed environments solely to find vulnerabilities, provided all
+     findings are reported privately to the Author before any disclosure.
+     Public disclosure before a patch is issued is strictly prohibited.
+
+3.4  PERFORMANCE & OPTIMIZATION
+     Contributors may benchmark and optimize this Software on local builds
+     and publish results provided full methodology is disclosed.
+
+3.5  CONTRIBUTIONS VIA PULL REQUEST
+     You may fork this repository and modify the code solely to improve
+     the Software in any way — including but not limited to fixing bugs,
+     patching security flaws, optimizing performance, adding features,
+     improving UI/UX, refactoring code, renaming or restructuring files,
+     updating documentation, and any other modification that enhances
+     the quality, maintainability, security, usability, or performance
+     of the Software — with the strict intent of submitting these
+     improvements back to the Author via Pull Requests.
+
+3.6  LOCALIZATION
+     You may translate and distribute localization files provided the
+     resulting translations are offered back to this project.
+
+3.7  ACCESSIBILITY TESTING
+     Contributors may run accessibility audits and testing tools against
+     local builds to evaluate compliance with accessibility standards.
+
+3.8  INTEGRATION TESTING
+     External developers may interact with this source code solely to test
+     compatibility of their own independent applications with this Software.
+
+================================================================================
+                         SECTION 4 — PROHIBITED USES
+================================================================================
+
+Any use not explicitly permitted above is implicitly prohibited. The
+following are stated explicitly for the avoidance of doubt.
+
+4.1  NO COMMERCIAL USE
+     You may not sell, monetize, rent, lease, host, or commercially deploy
+     this Software in any form.
+
+4.2  NO REDISTRIBUTION
+     You may not redistribute, sublicense, or publish this Software or any
+     portion of it anywhere.
+
+4.3  NO COMPETING PRODUCT
+     You may not use this code, or any fork of it, to launch a separate,
+     independent, or competing application, website, or service.
+
+4.4  NO REVERSE ENGINEERING
+     You may not decompile, disassemble, or reverse engineer compiled builds
+     of this Software.
+
+4.5  NO AI TRAINING
+     You may not use this source code or any associated user data to train,
+     fine-tune, or test any AI or machine learning model.
+
+4.6  NO DATA SCRAPING OR HARVESTING
+     You may not scrape, harvest, or extract user data, profiles, or content
+     from any deployment of this Software.
+
+4.7  NO GOVERNMENT OR MILITARY USE
+     This Software may not be deployed or used by any government, military,
+     or intelligence organization without a separate written agreement.
+
+4.8  NO MALICIOUS USE
+     You may not use this Software to inject malware, conduct attacks,
+     facilitate fraud, harassment, stalking, trafficking, or any illegal
+     activity.
+
+4.9  NO ARCHITECTURE REPLICATION
+     You may not copy the UI/UX workflows, database schemas, or core
+     mechanics of this Software to launch a competing product even if
+     rewritten from scratch.
+
+4.10 NO UNAUTHORIZED DEPLOYMENT
+     You may not deploy this Software as a cloud service, SaaS platform,
+     or any publicly accessible production environment without a separate
+     written commercial agreement with the Author.
+
+================================================================================
+                       SECTION 5 — CONTRIBUTOR TERMS
+================================================================================
+
+5.1  CONTRIBUTOR AGE REQUIREMENT
+     You must be at least eighteen (18) years of age to submit any
+     Contribution to this project.
+
+5.2  INTELLECTUAL PROPERTY ASSIGNMENT
+     By submitting any Contribution, you irrevocably assign to
+     [AUTHOR_LEGAL_NAME] full, perpetual, worldwide, royalty-free ownership
+     of all intellectual property rights in that Contribution.
+
+5.3  PATENT NON-ASSERTION
+     By submitting any Contribution, you covenant not to assert any patent
+     claims against [AUTHOR_LEGAL_NAME] based on that Contribution.
+
+5.4  REPRESENTATION OF ORIGINALITY
+     By submitting any Contribution, you represent that:
+     (a) it is your own original work;
+     (b) you have the right to assign the rights in clause 5.2;
+     (c) it does not infringe any third-party intellectual property rights;
+     (d) it does not contain malicious code or intentional vulnerabilities.
+
+5.5  NO OBLIGATION TO ACCEPT
+     The Author is under no obligation to review, accept, or merge any
+     Contribution.
+
+================================================================================
+                    SECTION 6 — LEGAL & STRUCTURAL PROVISIONS
+================================================================================
+
+6.1  GOVERNING LAW
+     This license is governed by the laws of [GOVERNING_COUNTRY].
+
+6.2  ARBITRATION
+     All disputes shall be resolved by binding arbitration seated in
+     [GOVERNING_CITY], [GOVERNING_COUNTRY], conducted in English.
+     The arbitral award is final and enforceable in any jurisdiction.
+     Neither party may bring a class action proceeding.
+
+6.3  SEVERABILITY
+     If any provision is found invalid or unenforceable, it shall be
+     modified to the minimum extent necessary. If modification is not
+     possible, it shall be severed. All remaining provisions continue
+     in full force.
+
+6.4  TERMINATION
+     This license terminates automatically upon any breach. Upon
+     termination, You must immediately cease all use and delete all
+     copies of the Software.
+
+6.5  EXPORT CONTROL
+     You may not use or export this Software in violation of applicable
+     export control laws or sanctions regulations.
+
+6.6  INDEMNIFICATION
+     You agree to indemnify and hold harmless the Author from any claims,
+     damages, and costs (including legal fees) arising from your breach
+     of this license or unauthorized use of the Software.
+
+6.7  WAIVER
+     Failure to enforce any provision does not waive the right to enforce
+     it later. Any waiver must be in writing signed by the Author.
+
+6.8  ENTIRE AGREEMENT
+     This license is the entire agreement between the Author and any
+     Licensee. No informal communication overrides it.
+
+================================================================================
+                      SECTION 7 — DISCLAIMER OF WARRANTIES
+================================================================================
+
+THE SOFTWARE IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND. THE AUTHOR
+MAKES NO WARRANTY REGARDING MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, SECURITY, OR NON-INFRINGEMENT.
+
+================================================================================
+                      SECTION 8 — LIMITATION OF LIABILITY
+================================================================================
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHOR SHALL NOT BE LIABLE
+FOR ANY INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL DAMAGES. THE
+AUTHOR'S TOTAL LIABILITY SHALL NOT EXCEED USD $100.00.
+
+================================================================================
+     Copyright (c) [YEAR] [AUTHOR_LEGAL_NAME]. All Rights Reserved.
+    Proprietary Source-Visible License (Lite) — Version 1.0 — [MONTH] [YEAR]
+   Unauthorized use, reproduction, or distribution is strictly prohibited.
+================================================================================

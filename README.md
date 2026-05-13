@@ -79,7 +79,7 @@ Find and replace the following placeholders with your information:
 | Placeholder | Replace With |
 |---|---|
 | `[AUTHOR_LEGAL_NAME]` | Your full legal name |
-| `[AUTHOR_LEGAL_NAME_TRANSLITERATED]` | ASCII transliteration if needed |
+| `[AUTHOR_LEGAL_NAME_TRANSLITERATED]` | ASCII transliteration if needed, or same as above if not applicable |
 | `[YEAR]` | Current year |
 | `[MONTH]` | Publication month |
 | `[GOVERNING_COUNTRY]` | Your country |

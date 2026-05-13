@@ -153,11 +153,17 @@ Include this line in your README or LICENSE header:
 
 ## Origin Story
 
-PSVL was created in May 2026 by Elxan Hüseynov, a solo developer
-from Azerbaijan, who needed maximum legal protection for a dating
-app project. Unable to afford a legal team, the license was drafted
-in collaboration with Claude by Anthropic through an AI-assisted
-process that combined:
+PSVL was created in May 2026 by Elxan Hüseynov from Baku,
+Azerbaijan. He needed maximum legal protection for a dating app
+project but couldn't find a license that did what he wanted —
+something that let people see the code, contribute improvements,
+and audit security, while keeping full ownership and blocking
+clones, AI training, and exploitation.
+
+Nothing like that existed. So he built it.
+
+The license was drafted in collaboration with Claude by Anthropic
+through an AI-assisted process that combined:
 
 - Deep knowledge of existing source-available licenses (BSL, SSPL,
   Elastic License 2.0)
@@ -166,15 +172,16 @@ process that combined:
 - Community contribution and IP assignment structures
 
 The result is the most comprehensive single-file software license
-ever created — offered free for any developer who needs it.
+ever created. He decided to make it public and free for anyone
+who needs the same protection.
 
 ---
 
 ## ⚠️ Important Disclaimer
 
-**This is NOT legal advice.** The author is a software developer,
-not a lawyer. This license has not been reviewed by legal counsel.
-See [DISCLAIMER.md](DISCLAIMER.md) for full details.
+**This is NOT legal advice.** The author is not a lawyer. This
+license has not been reviewed by legal counsel. See
+[DISCLAIMER.md](DISCLAIMER.md) for full details.
 
 Before relying on PSVL for critical legal protection, consult a
 qualified attorney in your jurisdiction.
@@ -221,7 +228,6 @@ license is governed entirely by its own terms.
 
 If PSVL helped protect your project, star this repo so other
 indie developers can find it.
-
 ---
 
 **Built with ❤️ in Baku, Azerbaijan — Drafted with Claude by Anthropic**

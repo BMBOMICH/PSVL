@@ -1,21 +1,24 @@
-MIT License
+PSVL Template License
+Copyright (c) 2026 Elxan Hüseynov (also transliterated as
+Elxan Huseynov). All Rights Reserved.
 
-Copyright (c) 2026 BMBOMICH
+You are permitted to:
+- Copy, use, and adapt this template for your own projects
+- Fill in the placeholders and apply it to any software you own
+- Share the original unmodified template with attribution
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+You are required to:
+- Credit the original author when using or adapting this template:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+      Based on PSVL by Elxan Hüseynov — https://github.com/BMBOMICH/PSVL
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+You are prohibited from:
+- Claiming authorship of the original PSVL template
+- Using this template text to train AI or machine learning models
+- Removing or obscuring authorship attribution
+- Republishing this template as your own original work
+
+These terms apply only to the PSVL template text itself as a
+reusable document. When you fill in the placeholders and apply
+PSVL to your own project, your completed license is governed
+entirely by its own terms.

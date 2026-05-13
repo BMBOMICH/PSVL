@@ -100,10 +100,14 @@ of your project repository.
 
 Add to your project README:
 
-```
-Licensed under the Proprietary Source-Visible License 1.0 (PSVL-1.0).
-See LICENSE for full terms.
-```
+    Licensed under the Proprietary Source-Visible License 1.0 (PSVL-1.0).
+    See LICENSE for full terms.
+
+### 6. Credit the Original Author
+
+Include this line in your README or LICENSE header:
+
+    Based on PSVL by Elxan Hüseynov — https://github.com/BMBOMICH/PSVL
 
 ---
 
@@ -188,12 +192,28 @@ template repository are welcome.
 
 ## License for This Repository
 
-This license template repository is itself released under the MIT
-License so that anyone can freely use, copy, and adapt the PSVL
-template for their own projects.
+This template is made available under the following terms:
 
-The PSVL license itself, when applied to your project, is
-proprietary and restrictive by design. That is the whole point.
+**You are permitted to:**
+- Copy, use, and adapt this template for your own projects
+- Fill in the placeholders and apply it to any software you own
+- Share the original unmodified template with attribution
+
+**You are required to:**
+- Credit the original author when using or adapting this template:
+
+      Based on PSVL by Elxan Hüseynov — https://github.com/BMBOMICH/PSVL
+
+**You are prohibited from:**
+- Claiming you wrote the original PSVL template
+- Using this template text to train AI or machine learning models
+- Removing or obscuring authorship attribution
+- Republishing this template as your own original work
+
+This distinction is important: these terms apply only to the PSVL
+template text itself as a reusable document. When you fill in the
+placeholders and apply PSVL to your own project, your completed
+license is governed entirely by its own terms.
 
 ---
 

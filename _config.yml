@@ -1,5 +1,9 @@
 title: PSVL — Proprietary Source-Visible License
-description: The most comprehensive source-visible license ever written. 276 clauses. Built for solo developers and indie teams who want to show their code without giving it away.
-theme: jekyll-theme-cayman
+description: >-
+  The most comprehensive source-visible license ever written.
+  276 clauses. Built for solo developers and indie teams
+  who want to show their code without giving it away.
+remote_theme: pages-themes/minimal@v0.2.0
 show_downloads: true
 author: Elxan Hüseynov
+lang: en

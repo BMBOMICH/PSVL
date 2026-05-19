@@ -3,7 +3,7 @@
 All notable changes to the Proprietary Source-Visible License (PSVL)
 will be documented in this file.
 
-## [1.0] — May 2026
+## [1.0] — 2026-05-14
 
 ### Initial Release
 - 9 major sections, 276+ clauses

@@ -145,10 +145,12 @@ See LICENSE for full terms.
 
 ### 6. Credit the Original Author
 
-Include this line in your README.md or LICENSE header:
+Add the following footer at the absolute bottom of your project's LICENSE file:
 
 ```text
+================================================================================
 Based on PSVL by Elxan Hüseynov — https://github.com/BMBOMICH/PSVL
+================================================================================
 ```
 
 ---
@@ -259,9 +261,11 @@ You are permitted to:
 
 You are required to:
 - Credit the original author when using or adapting this template by
-  including the following line in your distributed text:
+  adding the following footer at the absolute bottom of your project's LICENSE file:
 
-    Based on PSVL by Elxan Hüseynov — https://github.com/BMBOMICH/PSVL
+================================================================================
+Based on PSVL by Elxan Hüseynov — https://github.com/BMBOMICH/PSVL
+================================================================================
 
 You are prohibited from:
 - Claiming authorship of the original PSVL template
